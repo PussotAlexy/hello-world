@@ -10,7 +10,7 @@
 	background-color : #c0392b ;
 }
 
-@media screen and (max-width: 480px) and (max-height: 700px){
+@media screen and (max-width: 480px){
 	#section1,#section3 {
 		background-color: white ;
 	}
